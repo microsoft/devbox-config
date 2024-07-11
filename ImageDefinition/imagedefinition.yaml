@@ -1,6 +1,6 @@
 $schema: 1.0
 name: project-sample-1
-image: microsoftwindowsdesktop_windows-ent-cpc_win11-21h2-ent-cpc-m365
+image: MicrosoftWindowsDesktop_windows-ent-cpc_win11-21h2-ent-cpc-m365
 tasks:
     - name: choco
       parameters:
